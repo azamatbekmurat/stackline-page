@@ -1,0 +1,25 @@
+.sales-table {
+    width: 100%;
+    border-collapse: collapse;
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.sales-table th,
+.sales-table td {
+    padding: 10px;
+    text-align: left;
+}
+  
+.sales-table th {
+    color: black;
+    cursor: pointer;
+}
+
+
+  

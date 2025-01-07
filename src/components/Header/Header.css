@@ -1,0 +1,12 @@
+.header {
+    background-color: #04284e;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+  
+.stackline-logo {
+    height: 5vmin
+}
+
+  
